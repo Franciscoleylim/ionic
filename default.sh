@@ -15,7 +15,7 @@ PIP_PACKAGES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/1445331?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/5298440/dvineV31Illustrious.W8xN.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22dvine_v31.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250616/us-east-1/s3/aws4_request&X-Amz-Date=20250616T182824Z&X-Amz-SignedHeaders=host&X-Amz-Signature=5917e8933c9060b101b5cfa885f373876d805b11e39d89d6b0309deb6b69b2da"
 )
 
 UNET_MODELS=(
